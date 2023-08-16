@@ -7,10 +7,10 @@ L'intero progetto è racchiuso nello zip presente in questa repository.
 
 Sono stati usate le seguenti cose:
 
-CUBE IDE 
-STM32F303Discovery
-SG90
-Keypad 4x4
-Joystick
-Passive Buzzer
-Button 
+CUBE IDE;
+STM32F303Discovery;
+SG90;
+Keypad 4x4;
+Joystick;
+Passive Buzzer;
+Button;
